@@ -1,0 +1,17 @@
+2018-11-28 17:33:59,106 - DEBUG - Start of program
+2018-11-28 17:33:59,107 - DEBUG - Start of factorial(3%)
+2018-11-28 17:33:59,107 - DEBUG - i is 1, total is 1
+2018-11-28 17:33:59,108 - DEBUG - i is 2, total is 2
+2018-11-28 17:33:59,108 - DEBUG - i is 3, total is 6
+2018-11-28 17:33:59,108 - DEBUG - End of factorial(3%)
+2018-11-28 17:33:59,124 - DEBUG - End of program
+2018-11-28 17:39:40,510 - DEBUG - Start of program
+2018-11-28 17:39:40,511 - DEBUG - Start of factorial(5%)
+2018-11-28 17:39:40,511 - DEBUG - i is 0, total is 0
+2018-11-28 17:39:40,511 - DEBUG - i is 1, total is 0
+2018-11-28 17:39:40,512 - DEBUG - i is 2, total is 0
+2018-11-28 17:39:40,512 - DEBUG - i is 3, total is 0
+2018-11-28 17:39:40,513 - DEBUG - i is 4, total is 0
+2018-11-28 17:39:40,513 - DEBUG - i is 5, total is 0
+2018-11-28 17:39:40,514 - DEBUG - End of factorial(5%)
+2018-11-28 17:39:40,523 - DEBUG - End of program
